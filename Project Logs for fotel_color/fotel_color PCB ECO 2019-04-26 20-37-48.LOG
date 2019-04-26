@@ -1,0 +1,62 @@
+Change Component Comment : Designator=R1 Old Comment=100 New Comment=270
+Change Component Comment : Designator=R2 Old Comment=100 New Comment=270
+Change Component Comment : Designator=R3 Old Comment=100 New Comment=270
+Change Component Comment : Designator=R4 Old Comment=100 New Comment=270
+Change Component Comment : Designator=R5 Old Comment=100 New Comment=270
+Change Component Comment : Designator=R6 Old Comment=100 New Comment=270
+Change Component Comment : Designator=R18 Old Comment=?K New Comment=1K
+Change Component Comment : Designator=R28 Old Comment=?K New Comment=1K
+Change component parameters: Designator = "C13"; Footprint = "CAP_TAN_B1210"; UniqueID = "\JKJGSLTV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X5R 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RES_0603"; UniqueID = "\HCJFHXVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RES_0603"; UniqueID = "\MYSEWMPP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES_0603"; UniqueID = "\XYLHXULM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RES_0603"; UniqueID = "\KNBMUOPI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RES_0603"; UniqueID = "\CRDOPCLB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RES_0603"; UniqueID = "\RUVHWJLV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RES_0603"; UniqueID = "\CYTGQLMV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "RES_0603"; UniqueID = "\PJQYUASV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
